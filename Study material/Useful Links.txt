@@ -1,0 +1,9 @@
+Sallen-Key Lowpass filter design and transfer function with programmable gain
+https://www.youtube.com/watch?v=LYARYxwUJgc
+
+Analysis of the Sallen-Key Architecture (Rev. B)
+https://www.ti.com/lit/pdf/sloa024
+
+Frequency Response and Transfer function of an Op Amp based second order LowPass filter
+https://www.youtube.com/watch?v=hH9bxc0sUkQ
+
